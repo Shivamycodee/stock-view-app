@@ -1,0 +1,14 @@
+body{
+   background:black;
+}
+
+.container{
+   display: grid;
+   align-content: center;
+}
+
+.rmStock{
+   display:none;
+   background-color: black;
+}
+
